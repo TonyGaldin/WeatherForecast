@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translateble="false"> AIzaSyDUqcdITtptr4rGJKJTwJ_9kdAq7p-r15s</string>
+</resources>
